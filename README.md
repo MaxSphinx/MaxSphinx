@@ -12,14 +12,13 @@
 
   <br/><br/>
 
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/maksim-targonsky" target="_blank">
+  <!-- Working Social Badges -->
+  <a href="https://www.linkedin.com/in/maxsphinx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/ваш_юзернейм" target="_blank">
+  <a href="https://t.me/MaxSphinx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-MaxSphinx-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
 
@@ -30,8 +29,8 @@
 * 🔭 Currently focused on **Frontend Development** and building responsive web applications.
 * 🌱 Constantly sharpening my skills in **React, TypeScript, and modern UI/UX patterns**.
 * 💡 Passionate about creating intuitive, accessible interfaces that feel great to use.
-* ⚡ Also exploring **Python tools, Discord RPCs, and custom scripts**.
-* 📍 Based in **Belarus 🇧🇾**.
+* ⚡ Also exploring **Python tools, Discord RPCs, and custom automation scripts**.
+* 📍 Based in **Minsk, Belarus 🇧🇾**.
 
 ---
 
