@@ -1,13 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=210&section=header&text=Maksim%20Targhonskiy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20macOS%20%26%20Creative%20Developer&descAlignY=62&descColor=60a5fa" width="100%" />
-
-  <br/>
-
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Native Banner -->
   <a href="https://github.com/MaxSphinx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Creator+of+FaceLock+%E2%80%A2+macOS+Biometric+Shield;Building+Apple+Silicon+Neural+Vision+utilities;Modern+Web+Development+in+React%2C+TypeScript+%26+Tailwind;Writing+clean+architecture+%26+privacy-first+software" alt="Typing SVG" />
+    <img src="banner_with_text.jpg" width="100%" alt="MaxSphinx Banner" style="border-radius: 14px;" />
   </a>
 
   <br/><br/>
@@ -41,7 +36,7 @@
         <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
       </p>
       <p>
-        <a href="https://github.com/MaxSphinx/FaceLock"><img src="https://img.shields.io/github/stars/MaxSphinx/FaceLock?style=social" alt="FaceLock Stars" /></a>
+        <a href="https://github.com/MaxSphinx/FaceLock"><img src="https://img.shields.io/github/stars/MaxSphinx/FaceLock?style=flat-square&logo=github&color=F5A623&label=stars" alt="FaceLock Stars" /></a>
         <a href="https://github.com/MaxSphinx/FaceLock/releases"><img src="https://img.shields.io/github/v/release/MaxSphinx/FaceLock?style=flat-square&color=00BBF9" alt="Latest Release" /></a>
       </p>
     </td>
@@ -54,7 +49,8 @@
         <img src="https://img.shields.io/badge/AsyncIO-Event%20Loop-teal?style=flat-square" alt="AsyncIO" />
       </p>
       <p>
-        <a href="https://github.com/MaxSphinx/Discord-voice-rpc"><img src="https://img.shields.io/github/stars/MaxSphinx/Discord-voice-rpc?style=social" alt="Discord RPC Stars" /></a>
+        <a href="https://github.com/MaxSphinx/Discord-voice-rpc"><img src="https://img.shields.io/github/stars/MaxSphinx/Discord-voice-rpc?style=flat-square&logo=github&color=F5A623&label=stars" alt="Discord RPC Stars" /></a>
+        <a href="https://github.com/MaxSphinx/Discord-voice-rpc/releases"><img src="https://img.shields.io/github/v/release/MaxSphinx/Discord-voice-rpc?style=flat-square&color=00BBF9" alt="Discord RPC Release" /></a>
       </p>
     </td>
   </tr>
